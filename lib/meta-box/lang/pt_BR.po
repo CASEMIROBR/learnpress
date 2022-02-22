@@ -35,7 +35,7 @@ msgstr "Selecione a cor"
 
 #: ../inc/fields/file.php:69
 msgid "Error: Cannot delete file"
-msgstr ""
+msgstr "Erro: Não é possível excluir o arquivo"
 
 #: ../inc/fields/file.php:83
 msgctxt "file upload"
